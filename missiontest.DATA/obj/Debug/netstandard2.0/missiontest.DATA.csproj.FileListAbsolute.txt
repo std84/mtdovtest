@@ -1,0 +1,11 @@
+C:\xampp\htdocs\missionstest\missiontest.DATA\bin\Debug\netstandard2.0\missiontest.DATA.deps.json
+C:\xampp\htdocs\missionstest\missiontest.DATA\bin\Debug\netstandard2.0\missiontest.DATA.dll
+C:\xampp\htdocs\missionstest\missiontest.DATA\bin\Debug\netstandard2.0\missiontest.DATA.pdb
+C:\xampp\htdocs\missionstest\missiontest.DATA\bin\Debug\netstandard2.0\missiontest.MODAL.dll
+C:\xampp\htdocs\missionstest\missiontest.DATA\bin\Debug\netstandard2.0\missiontest.MODAL.pdb
+C:\xampp\htdocs\missionstest\missiontest.DATA\obj\Debug\netstandard2.0\missiontest.DATA.csprojAssemblyReference.cache
+C:\xampp\htdocs\missionstest\missiontest.DATA\obj\Debug\netstandard2.0\missiontest.DATA.AssemblyInfoInputs.cache
+C:\xampp\htdocs\missionstest\missiontest.DATA\obj\Debug\netstandard2.0\missiontest.DATA.AssemblyInfo.cs
+C:\xampp\htdocs\missionstest\missiontest.DATA\obj\Debug\netstandard2.0\missiontest.DATA.csproj.CopyComplete
+C:\xampp\htdocs\missionstest\missiontest.DATA\obj\Debug\netstandard2.0\missiontest.DATA.dll
+C:\xampp\htdocs\missionstest\missiontest.DATA\obj\Debug\netstandard2.0\missiontest.DATA.pdb

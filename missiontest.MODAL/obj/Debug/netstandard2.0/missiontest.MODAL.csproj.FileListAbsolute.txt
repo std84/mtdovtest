@@ -1,0 +1,8 @@
+C:\xampp\htdocs\missionstest\missiontest.MODAL\bin\Debug\netstandard2.0\missiontest.MODAL.deps.json
+C:\xampp\htdocs\missionstest\missiontest.MODAL\bin\Debug\netstandard2.0\missiontest.MODAL.dll
+C:\xampp\htdocs\missionstest\missiontest.MODAL\bin\Debug\netstandard2.0\missiontest.MODAL.pdb
+C:\xampp\htdocs\missionstest\missiontest.MODAL\obj\Debug\netstandard2.0\missiontest.MODAL.csprojAssemblyReference.cache
+C:\xampp\htdocs\missionstest\missiontest.MODAL\obj\Debug\netstandard2.0\missiontest.MODAL.AssemblyInfoInputs.cache
+C:\xampp\htdocs\missionstest\missiontest.MODAL\obj\Debug\netstandard2.0\missiontest.MODAL.AssemblyInfo.cs
+C:\xampp\htdocs\missionstest\missiontest.MODAL\obj\Debug\netstandard2.0\missiontest.MODAL.dll
+C:\xampp\htdocs\missionstest\missiontest.MODAL\obj\Debug\netstandard2.0\missiontest.MODAL.pdb

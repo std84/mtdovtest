@@ -1,0 +1,11 @@
+2020-04-26 10:20:58.4993 ERROR delet mission failed
+2020-04-26 10:20:58.5301 ERROR delet mission failed, generated at 26/04/2020 07:20:58.
+2020-04-26 10:21:42.8013 ERROR delet mission failed
+2020-04-26 10:21:58.4573 ERROR delet mission failed, generated at 26/04/2020 07:21:58.
+2020-04-26 10:23:14.6256 ERROR delet mission failed
+2020-04-26 10:23:14.6563 ERROR delet mission failed, generated at 26/04/2020 07:23:14.
+2020-04-26 10:23:59.9231 ERROR delet mission failed
+2020-04-26 10:53:08.9696 INFO create mission
+2020-04-26 10:53:25.5586 ERROR finish mission failed
+2020-04-26 10:56:56.1403 ERROR delet mission failed
+2020-04-26 11:02:20.9689 INFO user loged

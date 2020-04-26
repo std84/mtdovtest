@@ -1,0 +1,13 @@
+C:\xampp\htdocs\missionstest\missiontest.REPOSITORY\bin\Debug\netstandard2.0\missiontest.REPOSITORY.deps.json
+C:\xampp\htdocs\missionstest\missiontest.REPOSITORY\bin\Debug\netstandard2.0\missiontest.REPOSITORY.dll
+C:\xampp\htdocs\missionstest\missiontest.REPOSITORY\bin\Debug\netstandard2.0\missiontest.REPOSITORY.pdb
+C:\xampp\htdocs\missionstest\missiontest.REPOSITORY\bin\Debug\netstandard2.0\missiontest.DATA.dll
+C:\xampp\htdocs\missionstest\missiontest.REPOSITORY\bin\Debug\netstandard2.0\missiontest.MODAL.dll
+C:\xampp\htdocs\missionstest\missiontest.REPOSITORY\bin\Debug\netstandard2.0\missiontest.MODAL.pdb
+C:\xampp\htdocs\missionstest\missiontest.REPOSITORY\bin\Debug\netstandard2.0\missiontest.DATA.pdb
+C:\xampp\htdocs\missionstest\missiontest.REPOSITORY\obj\Debug\netstandard2.0\missiontest.REPOSITORY.csprojAssemblyReference.cache
+C:\xampp\htdocs\missionstest\missiontest.REPOSITORY\obj\Debug\netstandard2.0\missiontest.REPOSITORY.AssemblyInfoInputs.cache
+C:\xampp\htdocs\missionstest\missiontest.REPOSITORY\obj\Debug\netstandard2.0\missiontest.REPOSITORY.AssemblyInfo.cs
+C:\xampp\htdocs\missionstest\missiontest.REPOSITORY\obj\Debug\netstandard2.0\missiontest.REPOSITORY.csproj.CopyComplete
+C:\xampp\htdocs\missionstest\missiontest.REPOSITORY\obj\Debug\netstandard2.0\missiontest.REPOSITORY.dll
+C:\xampp\htdocs\missionstest\missiontest.REPOSITORY\obj\Debug\netstandard2.0\missiontest.REPOSITORY.pdb
